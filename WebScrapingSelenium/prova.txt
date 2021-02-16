@@ -1,0 +1,56 @@
+     divs=main.find_elements_by_tag_name("div")
+    for div in divs:
+      elem=div.get_attribute('class')
+      if "mw13 mw4" in elem:
+        divs_1=div.find_elements_by_tag_name("div")
+        for div1 in divs_1:
+          elem1=div1.get_attribute('class')
+          if "sc-htoDjs ktvtLN" in elem1:
+            divs_2=div1.find_elements_by_tag_name("div")
+            for div2 in divs_2:
+              elem2=div2.get_attribute('class')
+              if "sc-dnqmqq dgFJPO" in elem2:
+                divs_3=div2.find_elements_by_tag_name("div")
+                for div3 in divs_3:
+                  elem3=div3.get_attribute('class')
+                  if "sc-jnlKLf iBWIcu" in elem3:
+                    print('div3')
+                    #write_out("prova.txt",str(div3.find_elements_by_tag_name("a")))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Jobs Title  OK
+Salary OK
+Location
+Company Name OK
+Company No
+Telephone Number
+Email
+Job Description OK
+Contract Type OK
+Job Type OK
+Experience Level OK
+Job Category OK
+Minimum Education OK
+Language Required OK
+Nationality OK
+Gender OK
+Pose Transport OK
+Other Benefit ?
